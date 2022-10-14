@@ -47,7 +47,7 @@
 </a>
 <br>
 
-<h2> My GitHub Stats 
+<h2> My GitHub Stats <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21jon)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
