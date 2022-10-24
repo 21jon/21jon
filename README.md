@@ -48,9 +48,16 @@
 <br>
 
 <h2> My GitHub Stats <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=21jon&show_icons=true")
-  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=21jon&show_icons=true")
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=21jon)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21jon&layout=compact)
+![GitHub metrics](https://metrics.lecoq.io/21jon)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
