@@ -48,7 +48,7 @@
 
 <h2> My GitHub Stats <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=21jon&show_icons=true")
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=21jon&show_icons=true")
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=21jon)
 
